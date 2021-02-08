@@ -1,4 +1,4 @@
-# app_bovespa
+# app_currency
 
 A new Flutter project.
 
